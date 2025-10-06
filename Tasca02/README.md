@@ -6,4 +6,4 @@ L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament 
 ## Solució
 A l'arxiu [solucio.md](solucio.md) hi ha la solució descrita
 
-[Torna a la pàgina principal](Projece2_EverPIA/README.md)
+[Torna a la pàgina principal](README.md)
