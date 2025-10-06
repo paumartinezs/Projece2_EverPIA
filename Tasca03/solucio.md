@@ -101,3 +101,4 @@ El més recomanat és el **model 1: APC Smart-UPS 1500**, ja que ofereix **major
 
 *Informe tècnic sobre selecció de SAI*
 
+[Torna a l'enunciat](README.md)
