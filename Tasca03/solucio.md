@@ -1,4 +1,4 @@
-# Informe tècnic: selecció de SAI per a TecnoGestió S.L.
+# Tasca 2: Informe tècnic: selecció de SAI per a TecnoGestió S.L.
 
 **Nom:** Pau Martínez Sierra  
 **Curs:** 2b  
