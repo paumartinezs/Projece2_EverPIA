@@ -1,2 +1,6 @@
 # Projece2_EverPIA
-Descripció de les tasques del Projecte 2
+Descripció del projecte 2: 
+...
+
+- [Tasca02](Tasca02)
+- [Tasca03](Tasca03)
