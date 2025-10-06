@@ -12,11 +12,11 @@
 
 ## INDEX
 
-- Inventari d’equips………………………………………….Pág 4  
-- Càlcul de potència total…………………………………...Pág 4  
-- Determinació de l’autonomia……………………………..Pág 5  
-- Recerca de models SAI…………………………………..Pág 5  
-- Conclusió…………………………………………………...Pág 5  
+- Inventari d’equips………………………………………… 
+- Càlcul de potència total…………………………………  
+- Determinació de l’autonomia……………………………  
+- Recerca de models SAI………………………………… 
+- Conclusió………………………………………………… 
 
 ---
 
