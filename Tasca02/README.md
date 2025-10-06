@@ -5,9 +5,9 @@ L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i assessoram
 
 Davant les constants incidències amb el subministrament elèctric a la zona, la direcció ha decidit adquirir un **SAI** per garantir la continuïtat del servei i protegir els equips.  
 
-S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre responsable us ha encarregat que en feu **l’estudi i tria del SAI**.
+![Imatge SAI](img/SAI.png)
 
----
+S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre responsable us ha encarregat que en feu **l’estudi i tria del SAI**.
 
 ## Tasques a realitzar
 
