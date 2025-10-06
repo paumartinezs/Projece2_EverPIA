@@ -6,3 +6,9 @@ Com a fase prèvia rebreu una formació sobre la seguretat lògica que us permet
 Han arribat a la consultora un equip provinent d’un client que demana que els hi solucionem el problema.
 Tenen un portàtil amb Zorin OS (un Linux amb entorn gràfic) que usava habitualment un directiu. El problema és que ha oblidat la contrasenya i és necessari poder recuperar l’accés perquè hi ha documentació molt important que cal recuperar. Per evitar que una acció catastròfica pugui danyar l’equip original, ens han clonat el disc en un disc virtual perquè hi treballeu.
 
+## Solució
+
+A l'arxiu [solucio.md](solucio.md) hi ha la solució de la tasca 3
+
+[Tornar a la pàgina principal](../README.md)
+
