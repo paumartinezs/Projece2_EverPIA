@@ -1,5 +1,7 @@
 # Proposta de domini i hosting per al client FotoNòmada
 
+# CLIENT NUMERO 17:
+
 ## 1. Presentació del client
 - **Nom del client:** FotoNòmada
 - **Sector:** Fotografia professional
