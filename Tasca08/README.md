@@ -45,3 +45,6 @@ La documentació s’haurà de redactar íntegrament en **Markdown** i pujar-se 
 5. **Evidències al repo GitHub:** captures, configuració, càlcul de costos i entrada a GitHub.  
    - *(Connexió amb P01/P02 del projecte.)*
 
+A l'arxiu [solució.md](solucio.md) hi ha la solució de la tasca 8.
+
+[Torna a la pàgina principal](../README.md)
