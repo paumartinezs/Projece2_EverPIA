@@ -47,3 +47,4 @@
 - Els criteris més decisius han estat la velocitat, l’optimització d’imatges i la fiabilitat.
 - Aquesta proposta és la millor opció perquè combina rendiment, seguretat i identitat de marca per a un fotògraf professional.
 
+[Torna a l'enunciat](README.md)
