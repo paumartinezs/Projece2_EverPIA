@@ -50,3 +50,6 @@ Guarda utilitzant “ sudo grub-mkconfig -o /boot/grub/grub.cfg” i reinicia la
 ![imagen](img/foto12.png)
 
 Després de reiniciar, fica el usuari i la contrasenya que has posat anteriorment y ya estaria.
+
+![imagen](img/foto13.png)
+
