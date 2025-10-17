@@ -6,8 +6,4 @@ Benvinguts a EverPia, una consultora IT que té com a missió resoldre els repte
 
 - [Tasca02](Tasca02)
 - [Tasca03](Tasca03)
-- [Tasca04](Tasca04)
-- [Tasca05](Tasca05)
-- [Tasca06](Tasca06)
-- [Tasca07](Tasca07)
 - [Tasca08](Tasca08)
