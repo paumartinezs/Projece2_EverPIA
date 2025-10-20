@@ -14,11 +14,9 @@ Un cop dins del menú de recuperació, entra en el **root** com surt en la captu
 
 ![imagen](img/foto4.png)
 
-
 Utilitza “mount -rw -o remount / per poder canviar la contrasenya del usuari.
 
 ![imagen](img/foto5.png)
-
 
 Per trobar el nom d’usuari del usuari utilitza el codi mostrat en la captura
 
